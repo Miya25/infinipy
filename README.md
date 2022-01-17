@@ -1,5 +1,5 @@
 # infinipy 
-# By ZeriTwo36 (Not Me)
+# By ZeroTwo36 (Not Me)
 ## Okay, hear me out: 
 I know about ibl.py. I made this Library out of boredom, pretty much.
 
